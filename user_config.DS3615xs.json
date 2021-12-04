@@ -9,9 +9,9 @@
     "supportsystemperature": "no",
     "supportsystempwarning": "no"
   },
-  "ramdisk_copy": {}
-    "extensions": [
+  "extensions": {
     "thethorgroup.virtio",
     "example_dev.example_extension"
-  ]
+  },
+  "ramdisk_copy": {}
 }
